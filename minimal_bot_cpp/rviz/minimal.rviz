@@ -1,0 +1,11 @@
+        # RViz node
+        Node(
+            package="rviz2",
+            executable="rviz2",
+            name="rviz2",
+            arguments=["-d", os.path.join(
+                FindPackageShare("minimal_bot_cpp").find("minimal_bot_cpp"),
+                "rviz", "minimal.rviz"
+            )],
+            output="screen"
+        )

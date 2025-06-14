@@ -1,0 +1,10 @@
+/ros2_ws/src/minimal_bot_cpp/build/minimal_bot_cpp/CMakeFiles/uninstall.dir
+/ros2_ws/src/minimal_bot_cpp/build/minimal_bot_cpp/CMakeFiles/minimal_bot_cpp_uninstall.dir
+/ros2_ws/src/minimal_bot_cpp/build/minimal_bot_cpp/CMakeFiles/static_tf_publishers.dir
+/ros2_ws/src/minimal_bot_cpp/build/minimal_bot_cpp/CMakeFiles/test.dir
+/ros2_ws/src/minimal_bot_cpp/build/minimal_bot_cpp/CMakeFiles/edit_cache.dir
+/ros2_ws/src/minimal_bot_cpp/build/minimal_bot_cpp/CMakeFiles/rebuild_cache.dir
+/ros2_ws/src/minimal_bot_cpp/build/minimal_bot_cpp/CMakeFiles/list_install_components.dir
+/ros2_ws/src/minimal_bot_cpp/build/minimal_bot_cpp/CMakeFiles/install.dir
+/ros2_ws/src/minimal_bot_cpp/build/minimal_bot_cpp/CMakeFiles/install/local.dir
+/ros2_ws/src/minimal_bot_cpp/build/minimal_bot_cpp/CMakeFiles/install/strip.dir
